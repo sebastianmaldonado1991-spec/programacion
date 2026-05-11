@@ -6,4 +6,4 @@ def es_primo(n):
             return False
     return True
 
-print(es_primo(2))
+print(es_primo(11))
