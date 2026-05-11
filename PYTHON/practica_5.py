@@ -1,3 +1,5 @@
+# Bonos por años trabajados.
+
 nombre = input("ingrese nombre de empleado: ")
 años = int(input(" ingrese años trabajados: "))
 
